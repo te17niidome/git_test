@@ -33,7 +33,17 @@
                 ├─ weather
                 │   ├─ masiki_1209.csv
                 │   ├─ kumamoto_1209.csv
-                │   └─ kahoku_1209.csv
+                │   ├─ kahoku_1209.csv
+                │   ├─ A1-12_日射_20210101_20211231_10min_a.csv
+                │   ├─ A1-12_日射_20200101_20201231_10min_a.csv
+                │   ├─ A1-12_日射_20190101_20191231_10min_a.csv
+                │   ├─ A1-12_日射_20180101_20181231_10min_a.csv
+                │   ├─ A1-12_日射_20170101_20171231_10min_a.csv
+                │   ├─ A1-12_20210101_20211231_10min_a.csv
+                │   ├─ A1-12_20200101_20201231_10min_a.csv
+                │   ├─ A1-12_20190101_20191231_10min_a.csv
+                │   ├─ A1-12_20180101_20181231_10min_a.csv
+                │   └─ A1-12_20170101_20171231_10min_a.csv
                 └─ input
                     ├─ seiikukeikaku_general.csv
                     ├─ seiikukeikaku_takasesiki_csv
